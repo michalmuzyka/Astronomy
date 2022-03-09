@@ -1,12 +1,14 @@
 # Astronomy
 
-##Documentation:
+## Documentation:
 GK – Project 4 Michał Muzyka
 
 The stage features a spaceship in space, additionally generated asteroids and planets (a interpolated sphere), two stars as light sources and a spotlight on the ship.  
 
-##Technology:
+## Technology:
 3D computer graphics project made in C++ and OpenGl
+
+## Keys:
 
 Mouse moving – Rotating camera
 
